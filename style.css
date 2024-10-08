@@ -55,7 +55,7 @@ header a:hover {
 
 main a {
   color: var(--danger-color);
-  transition: box-shadow 0.3s ease, color 0.3 ease;
+  transition: box-shadow 0.3s ease, color 0.3s ease;
 }
  
 main a:hover {
